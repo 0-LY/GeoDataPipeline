@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+geopandas
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+ipywidgets

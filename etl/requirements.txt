@@ -1,0 +1,10 @@
+boto3
+botocore
+pyspark
+geopandas
+sqlalchemy
+pandas
+pyarrow
+numpy
+psycopg2-binary
+shapely 
