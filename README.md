@@ -146,7 +146,6 @@ The following are the key API endpoints provided by FastAPI:
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
-
 ### Reporting Errors and Issues
 
 If you encounter any errors or issues while setting up or running the project, please feel free to report them by creating an issue in the repository. Include the following details to help troubleshoot:
@@ -157,6 +156,8 @@ If you encounter any errors or issues while setting up or running the project, p
 * Information about your environment (OS, Docker version, etc.).
 
 You can open an issue here: [GitHub Issues](https://github.com/0-LY/GeoDataPipeline/issues).
+
+---
 
 ### Final Note
 
