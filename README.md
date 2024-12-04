@@ -29,19 +29,19 @@
 ```
 .
 ├── docker-compose.yaml        # Docker Compose configuration for managing services
-├── etl                       # ETL service to collect, process, and load data
+├── etl                        # ETL service to collect, process, and load data
 │   ├── Dockerfile
 │   ├── requirements.txt       # Python dependencies for the ETL service
-│   └── src                   # Source code for the ETL service
-├── fastapi                   # FastAPI service for API endpoints
+│   └── src                    # Source code for the ETL service
+├── fastapi                    # FastAPI service for API endpoints
 │   ├── Dockerfile
 │   ├── requirements.txt       # Python dependencies for FastAPI service
-│   └── src                   # Source code for the FastAPI service
-├── jupyter                   # Jupyter Notebook for data visualization
+│   └── src                    # Source code for the FastAPI service
+├── jupyter                    # Jupyter Notebook for data visualization
 │   ├── Dockerfile
 │   ├── notebooks              # Jupyter notebooks for analysis
 │   └── requirements.txt       # Python dependencies for Jupyter service
-└── postgres                  # PostgreSQL service with PostGIS extension
+└── postgres                   # PostgreSQL service with PostGIS extension
     ├── Dockerfile
     └── init
         └── init.sql           # SQL script to initialize the database schema
